@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1040751833424",
+    "project_id": "ciftci-destek-mobil",
+    "storage_bucket": "ciftci-destek-mobil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040751833424:android:3cdcd50f7c01a103ed3c55",
+        "android_client_info": {
+          "package_name": "com.example.ciftci_destek_mobil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040751833424-6k9658vnccgmm7gj3v5v6q84oqi7p2ok.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ciftci_destek_mobil",
+            "certificate_hash": "5371bfd493a7526659e86b229eea69e5ca518cf6"
+          }
+        },
+        {
+          "client_id": "1040751833424-90pfl7c8gsojptet3jlteokcco6rr3nt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHAy58MEA6UXTeiB81VhYuDL4NPCXTmHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040751833424-90pfl7c8gsojptet3jlteokcco6rr3nt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
