@@ -12,7 +12,7 @@ verimlilikleri karşılaştırmalı incelenebilecektir.
 - Çiftçinin yıllık gideri ve üretim verimliliği hesaplanacaktır. Anlık hava
 durumu ve olağan dışı olaylarda çiftçiye bilgi verilecektir.
 
-Proje 3 Aşamada Tamamlandı.
+### Proje 3 Aşamada Tamamlandı.
 
 ###### 1.Aşama
 Bu alanda uzman kişilerle görüşülüp veri ve fikir alışverişi yapılması.
