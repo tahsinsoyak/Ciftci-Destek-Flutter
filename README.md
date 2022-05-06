@@ -14,7 +14,7 @@ durumu ve olağan dışı olaylarda çiftçiye bilgi verilecektir.
 
 ### Proje 3 Aşamada Tamamlandı.
 
-###### 1.Aşama
+##### 1.Aşama
 Bu alanda uzman kişilerle görüşülüp veri ve fikir alışverişi yapılması.
 ###### 2.Aşama
 Projenin ekran tasarımı ve arka planda çalışıp veri işleyecek sınıfların tasarlanması.
