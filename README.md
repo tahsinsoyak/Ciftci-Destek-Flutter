@@ -16,9 +16,9 @@ durumu ve olağan dışı olaylarda çiftçiye bilgi verilecektir.
 
 ##### 1.Aşama
 Bu alanda uzman kişilerle görüşülüp veri ve fikir alışverişi yapılması.
-###### 2.Aşama
+##### 2.Aşama
 Projenin ekran tasarımı ve arka planda çalışıp veri işleyecek sınıfların tasarlanması.
-###### 3.Aşama
+##### 3.Aşama
 Ekran tasarımı ve arka plan sınıflarının birleştirilmesi ardından projenin ayağa kaldırılması.
 
 ## Neler Kullanıldı
